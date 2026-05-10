@@ -1,5 +1,5 @@
 {
   "username": "hello",
   "time": "2019-01-01 0:00",
-  "request": "Hi I am your human master"
+  "request": "How do I deploy an agent on Hetzner with proper telemetry, such as tracing with Rust's Rig library for agent development?"
 }
